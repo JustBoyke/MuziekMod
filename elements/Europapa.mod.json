@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Europapa",
+    "rarity": "UNCOMMON",
+    "texture": "joost-klein",
+    "description": "12 points to...",
+    "creativeTab": {
+      "value": "CUSTOM:MuziekMod"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": true
+    },
+    "music": {
+      "value": "CUSTOM:europapa"
+    },
+    "lengthInTicks": 4040,
+    "analogOutput": 15
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Pi",
+    "rarity": "COMMON",
+    "texture": "pi-symbol.svg",
+    "description": "NUMERSSSSSSS",
+    "creativeTab": {
+      "value": "CUSTOM:MuziekMod"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:pi_song"
+    },
+    "lengthInTicks": 4200,
+    "analogOutput": 0
+  }
+}

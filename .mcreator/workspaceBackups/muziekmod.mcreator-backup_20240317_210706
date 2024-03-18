@@ -1,0 +1,48 @@
+{
+  "mod_elements": [
+    {
+      "name": "Nsomroep",
+      "type": "musicdisc",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nsomroep",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/muziekmod/item/NsomroepItem.java",
+          "src/main/resources/assets/muziekmod/models/item/nsomroep.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "subtitles.ns_omroep": "ding dong ding",
+      "item.muziekmod.nsomroep": "Nsomroep",
+      "item.muziekmod.nsomroep.desc": "Er is vertraging!"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "muziekmod",
+    "modName": "MuziekMod",
+    "version": "1.0.0",
+    "author": "Boyke, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "net.mcreator.muziekmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300452316
+}

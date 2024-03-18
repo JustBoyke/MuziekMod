@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Scatman",
+    "rarity": "COMMON",
+    "texture": "ca855e2e47dfebb8a5154f40a60880b9",
+    "description": "ski-ba-bop-ba-dop-bop",
+    "creativeTab": {
+      "value": "CUSTOM:MuziekMod"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:scatman"
+    },
+    "lengthInTicks": 4840,
+    "analogOutput": 13
+  }
+}

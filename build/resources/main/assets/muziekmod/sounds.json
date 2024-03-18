@@ -1,0 +1,47 @@
+{
+  "dingdongding": {
+    "subtitle": "subtitles.dingdongding",
+    "sounds": [
+      {
+        "name": "muziekmod:ns_omroep",
+        "stream": true
+      }
+    ]
+  },
+  "imgood": {
+    "subtitle": "subtitles.imgood",
+    "sounds": [
+      {
+        "name": "muziekmod:imgood",
+        "stream": true
+      }
+    ]
+  },
+  "pi_song": {
+    "subtitle": "subtitles.pi_song",
+    "sounds": [
+      {
+        "name": "muziekmod:pi_song",
+        "stream": true
+      }
+    ]
+  },
+  "scatman": {
+    "subtitle": "subtitles.scatman",
+    "sounds": [
+      {
+        "name": "muziekmod:scatman",
+        "stream": true
+      }
+    ]
+  },
+  "europapa": {
+    "subtitle": "subtitles.europapa",
+    "sounds": [
+      {
+        "name": "muziekmod:europapa",
+        "stream": true
+      }
+    ]
+  }
+}

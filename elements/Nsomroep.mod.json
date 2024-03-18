@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Nsomroep",
+    "rarity": "COMMON",
+    "texture": "ding",
+    "description": "Er is vertraging!",
+    "creativeTab": {
+      "value": "TRANSPORTATION"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:dingdongding"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 5
+  }
+}

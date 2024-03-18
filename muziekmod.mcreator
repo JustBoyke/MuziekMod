@@ -1,0 +1,197 @@
+{
+  "mod_elements": [
+    {
+      "name": "Nsomroep",
+      "type": "musicdisc",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nsomroep",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/muziekmod/item/NsomroepItem.java",
+          "src/main/resources/assets/muziekmod/models/item/nsomroep.json"
+        ]
+      }
+    },
+    {
+      "name": "BoerHarms",
+      "type": "villagertrade",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boer_harms",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "DingDingDing",
+      "type": "achievement",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ding_ding_ding",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/muziekmod/advancements/ding_ding_ding.json"
+        ]
+      }
+    },
+    {
+      "name": "MuziekMod",
+      "type": "tab",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "muziek_mod",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Europapa",
+      "type": "musicdisc",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "europapa",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/muziekmod/item/EuropapaItem.java",
+          "src/main/resources/assets/muziekmod/models/item/europapa.json"
+        ]
+      }
+    },
+    {
+      "name": "Imgood",
+      "type": "musicdisc",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "imgood",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/muziekmod/models/item/imgood.json",
+          "src/main/java/net/mcreator/muziekmod/item/ImgoodItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Scatman",
+      "type": "musicdisc",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scatman",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/muziekmod/item/ScatmanItem.java",
+          "src/main/resources/assets/muziekmod/models/item/scatman.json"
+        ]
+      }
+    },
+    {
+      "name": "Pi",
+      "type": "musicdisc",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pi",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/muziekmod/models/item/pi.json",
+          "src/main/java/net/mcreator/muziekmod/item/PiItem.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "dingdongding",
+      "files": [
+        "ns_omroep"
+      ],
+      "category": "record",
+      "subtitle": "Er is vertraging"
+    },
+    {
+      "name": "imgood",
+      "files": [
+        "imgood"
+      ],
+      "category": "record",
+      "subtitle": "I\u0027m Good (Blue)"
+    },
+    {
+      "name": "pi_song",
+      "files": [
+        "pi_song"
+      ],
+      "category": "record",
+      "subtitle": "Veel Nummers"
+    },
+    {
+      "name": "scatman",
+      "files": [
+        "scatman"
+      ],
+      "category": "record",
+      "subtitle": "ski-ba-bop-ba-dop-bop"
+    },
+    {
+      "name": "europapa",
+      "files": [
+        "europapa"
+      ],
+      "category": "record",
+      "subtitle": "12 Points to..."
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item_group.muziekmod.muziek_mod": "Muziek Mod",
+      "subtitles.europapa": "12 Points to...",
+      "subtitles.scatman": "ski-ba-bop-ba-dop-bop",
+      "item.muziekmod.scatman.desc": "ski-ba-bop-ba-dop-bop",
+      "subtitles.imgood": "I\u0027m Good (Blue)",
+      "item.muziekmod.nsomroep.desc": "Er is vertraging!",
+      "item.muziekmod.nsomroep": "Nsomroep",
+      "advancements.ding_ding_ding.descr": "Heeft het NS geluidje afgespeeld",
+      "item.muziekmod.pi.desc": "NUMERSSSSSSS",
+      "subtitles.dingdongding": "Er is vertraging",
+      "advancements.ding_ding_ding.title": "Ding Dong Ding",
+      "subtitles.ns_omroep": "ding dong ding",
+      "item.muziekmod.europapa": "Europapa",
+      "item.muziekmod.imgood": "Imgood",
+      "item.muziekmod.imgood.desc": "Im blueeeeeee",
+      "item.muziekmod.pi": "Pi",
+      "subtitles.pi_song": "Veel Nummers",
+      "item.muziekmod.europapa.desc": "12 points to...",
+      "item.muziekmod.scatman": "Scatman"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "muziekmod",
+    "modName": "MuziekMod",
+    "version": "1.0.0",
+    "author": "Boyke, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "net.mcreator.muziekmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300452316
+}

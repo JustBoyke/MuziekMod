@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Imgood",
+    "rarity": "COMMON",
+    "texture": "imgood",
+    "description": "Im blueeeeeee",
+    "creativeTab": {
+      "value": "CUSTOM:MuziekMod"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:imgood"
+    },
+    "lengthInTicks": 4720,
+    "analogOutput": 14
+  }
+}
